@@ -1,0 +1,27 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: flavourist-identity-service
+          uri: lb://FLAVORIST-IDENTITY-SERVICE3
+          predicates:
+            - Path=/api/**
+          filters:
+            - JwtAuthenticationFIlter
+
+  application:
+    name: API-GATEWAY
+
+eureka:
+  client:
+    service-url:
+      defaultZone : http://localhost:8761/eureka/
+
+
+
+#        - id: restaurant-service
+#          uri: lb://RESTAURANT-SERVICE
+#          predicates:
+#            - Path=/restaurant/**
+#          filters:
+#            - AuthenticationFilter
