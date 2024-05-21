@@ -1,0 +1,64 @@
+.loginForm {
+    display: flex;
+    height: 75vh;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(236, 118, 66, 255);
+}
+.userInputs {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 50px;
+}
+
+#lblForgotPass {
+    font-size: 60%;
+    margin-left: auto;
+    text-decoration: underline;
+}
+
+input[type="text"]{
+    margin-top: 4px;
+}
+
+label{
+    font-size: 80%;
+}
+
+#txtUsername{
+    margin-bottom: 23px;
+
+}
+
+#btnLogin{
+    margin-top: 30px;
+    margin-bottom: 12px;
+    padding: 6px;
+    width: 341px;
+    background-color: rgba(236, 118, 66, 255);
+    color: white;
+    border: none;
+}
+
+#btnLogin:hover{
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.or{
+    display: inline-block;
+
+}
+
+#lblForgotPass{
+    color: black;
+}
+
+#createCustomer {
+    display: flex;
+    color: black;
+    font-size: 60%;
+    text-decoration: underline;
+}

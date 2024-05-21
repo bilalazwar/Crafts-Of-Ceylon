@@ -1,0 +1,54 @@
+.aboutBackgroundPage{
+    width: 100%;
+    height: 500px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    font-size: 160%;
+    color: aliceblue;
+    box-sizing: border-box;
+    background-image: url('../images/aboutBackground.png');
+    background-repeat: no-repeat;
+    background-size: cover; /* Added to cover the entire width and height */
+}
+
+.flex-container {
+    display: flex;
+    margin: 45px;
+  }
+  
+  .flex-item {
+    flex: 1; /* Equal width for all columns */
+    margin: 25px; /* Space between columns */
+  }
+
+.aboutBackgroundPage p{
+    text-align: center;
+}
+
+.aboutBackgroundPage h1{
+    text-align: center;
+}
+
+.aboutContent{
+    background-color: white;
+    height: 800px;
+}
+
+.image1{
+    background-image: url('../images/about1.png');
+    background-size: cover;
+    height: 400px;
+}
+.image2{
+    background-image: url('../images/about2.png');
+    background-size: cover;
+    height: 400px;
+}
+.image3{
+    background-image: url('../images/about3.png');
+    background-size: cover;
+    height: 400px;
+}

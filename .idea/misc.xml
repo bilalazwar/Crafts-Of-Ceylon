@@ -4,9 +4,9 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/flavorist-api-gateway/pom.xml" />
-        <option value="$PROJECT_DIR$/Flavorist-identity-service/pom.xml" />
-        <option value="$PROJECT_DIR$/flavorist-service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/Back-End/flavorist-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Back-End/Flavorist-identity-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Back-End/flavorist-service-registry/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />

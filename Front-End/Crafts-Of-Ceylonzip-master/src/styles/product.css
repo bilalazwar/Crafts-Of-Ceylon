@@ -1,0 +1,53 @@
+.ProductDisplayContainer{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.welcomeImage{
+    width: 100%;
+    height: 500px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    font-size: 160%;
+    color: aliceblue;
+    box-sizing: border-box;
+    background-image: url('../images/aboutBackground.png');
+    background-repeat: no-repeat;
+    background-size: cover; /* Added to cover the entire width and height */
+}
+
+.welcomeImage p{
+    text-align: center;
+}
+
+.welcomeImage h1{
+    text-align: center;
+}
+
+
+
+
+
+.productSelectAndView{
+    display: flex;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+.productSelectAndView .leftFrame{
+    flex:20%
+}
+
+.productSelectAndView .rightFrame{
+    box-sizing: border-box;
+    flex:80%;
+    border: 2px red solid;
+    padding: 20px;
+}

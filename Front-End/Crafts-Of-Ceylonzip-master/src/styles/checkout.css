@@ -1,0 +1,132 @@
+.content{
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    padding: 20px;
+    height: 74.7vh;
+    background-image: url('../images/background-1.png'); /* Replace 'your-image-path.jpg' with the actual path to your image */
+    background-size: cover; /* Adjust the background size as needed */
+    background-position: center; /* Adjust the background position as needed */
+    justify-content: center;
+}
+
+.cart{
+    /* flex:15%; */
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0 0 3px rgba(75, 74, 74, 0.4), 0 0 4px rgba(75, 74, 74, 0.4);
+    border-radius: 4px;
+    margin-right: 35px;
+    width: 360px;
+    height: 380px;
+}
+
+.deliveryAddress{
+    /* flex:15%; */
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0 0 3px rgba(75, 74, 74, 0.4), 0 0 4px rgba(75, 74, 74, 0.4);
+    border-radius: 4px;
+    width: 16%;
+    height: 548px;
+}
+
+.column03{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    width: 348px;
+}
+
+
+.column03 .paymentMethod{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0 0 3px rgba(75, 74, 74, 0.4), 0 0 4px rgba(75, 74, 74, 0.4);
+    border-radius: 4px;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+.column03 .orderSummary {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0 0 3px rgba(75, 74, 74, 0.4), 0 0 4px rgba(75, 74, 74, 0.4);
+    border-radius: 4px;
+}
+
+.product1{
+    /* border: 2px solid black; */
+    display: flex;
+
+}
+
+.product1 .productDetail1Image{
+    /* border: 2px solid black; */
+    
+}
+.product1 .productDetail1Image img{
+    width: 100px;
+
+}
+.blackLine{
+
+    margin-top: 15px;
+    border-bottom: 1.5px solid rgb(189, 187, 187);
+}
+
+.productDetail1{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    line-height: 2.1;
+    font-size: 110%;
+}
+
+#subTotal{
+    margin-left: 195px;
+}
+
+#deliverySelect{
+    border: 1px solid orange;
+}
+
+.deliveryAddress label{
+    margin-bottom: 3px;
+}
+
+.deliveryAddress input[type=text], .deliveryAddress input[type=number]{
+    margin-bottom: 9px;
+    padding: 5px;
+}
+
+#productColor, #productCategory{
+    opacity: 0.8;
+}
+
+.productDetail1 label input[type=number]{
+    width: 25px;
+    padding: 4px;
+    margin-right: 50px;
+}
+
+.checkboxTick{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    opacity: 0.8;
+}
+
+.checkboxTick input[type=checkbox]{
+    margin-right: 10px;
+    
+}

@@ -1,0 +1,40 @@
+.allProducts{
+    width: 100%;
+    margin: 0;
+    padding: 50px;
+    box-sizing: border-box;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-column-gap: 6rem;
+    grid-row-gap: 4rem;
+}
+
+.productsCard{
+    background-color: rgb(213, 239, 239);
+    box-sizing: border-box;
+    
+}
+
+.productsCard .productImage img{
+    width: 389px;
+    height: 353px;
+    box-sizing: border-box
+}
+
+
+
+.productsCard:hover{
+    cursor: pointer;
+
+}
+
+.productName p{
+    font-size: 130%;
+    opacity: 70%;
+}
+
+.productPrice p{
+    font-size: 140%;
+}
