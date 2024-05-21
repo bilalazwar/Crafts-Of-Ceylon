@@ -5,100 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1180845-912c-4b8c-a62e-519e2941f31d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-End/customer-back-end" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/customer-back-end" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Back-End/customer-back-end/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/customer-back-end/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/loadimages/basket14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/loadimages/cotton9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/loadimages/elephant5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/loadimages/mug1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/loadimages/ornament6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/loadimages/silk10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/loadimages/silver8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/components/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/components/NavigationBar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/components/ProductCustomerSideBar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/components/ProductView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/components/ProfileSideBar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/components/SellerAccountDetails.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/components/SellerView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/components/SellerViewDet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/components/UserAccountDetails.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/components/UserManagment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/about1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/about2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/about3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/aboutBackground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/addImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/addImage2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/background-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/basket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/call.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/card.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/card2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/drum.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/elephant.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/language.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/mask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/shopping-cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/srilankaBackground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/images/user11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/About.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/CheckOut.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/Contact.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/CreateCustomer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/CreateSeller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/ForgotPassword.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/Home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/LoginCustomer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/LoginSeller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/NewFAQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/ProductPage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/Seller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/pages/UserProfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/about.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/accountDetails.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/accountcreation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/checkout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/contact.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/customerLogin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/customersidebar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/footer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/forgotpassword.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/home.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/navigationbar1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/product.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/productView.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/seller.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/sellerLogin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/sellerMyProducts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/sellerview.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/sidebar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/usermanagement.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-End/Crafts-Of-Ceylonzip-master/src/styles/usersidebar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-End/seller-backend/src/main/java/com/TechTron/sellerbackend/configuration/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Back-End/seller-backend/src/main/java/com/TechTron/sellerbackend/configuration/MyConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Back-End/customer-back-end" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -123,9 +33,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Crafts-Of-Ceylon-2",
+    "last_opened_file_path": "E:/Crafts-Of-Ceylon",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>

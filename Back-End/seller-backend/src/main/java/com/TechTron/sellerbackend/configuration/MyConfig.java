@@ -43,9 +43,9 @@ public class MyConfig {
     @Bean
     public AmazonS3 getAmazonS3Cient() {
 
-        String secretAccessKey = "jkn";
-        String accessKeyId = "bnmb";
-        String region = "vfd";
+        String secretAccessKey = "";
+        String accessKeyId = "";
+        String region = "";
 
         final BasicAWSCredentials basicAWSCredentials = new BasicAWSCredentials(accessKeyId, secretAccessKey);
         // Get AmazonS3 client and return the s3Client object.
@@ -106,10 +106,10 @@ public class MyConfig {
 //public class AWSS3Config {
 //
 //    // Access key id will be read from the application.properties file during the application intialization.
-//    private String accessKeyId="AKIATFUCC3MSIMJS233K";
+//    private String accessKeyId="";
 //    // Secret access key will be read from the application.properties file during the application intialization.
 ////    @Value("${aws.secret_access_key}")
-//    private String secretAccessKey="tN4IaqUgBrHohiEfDCQWUhFBjMWDpYR2SWPz13Ev";
+//    private String secretAccessKey="";
 //    // Region will be read from the application.properties file  during the application intialization.
 //    private String region="ap-south-1";
 //
