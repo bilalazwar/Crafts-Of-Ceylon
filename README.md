@@ -36,14 +36,14 @@ These are the initial developed plans before the improvements
 
 | ER Diagram | BACK-END Design |
 |---|---|
-| ![ER Diagram](OldEr.png) | ![Back-End Design](oldBackEnd.png) |
+| ![ER Diagram](images/OldEr.png) | ![Back-End Design](images/oldBackEnd.png) |
 
 
 ## Improved-Back-End
 
 | ER Diagram | BACK-END Design |
 |---|---|
-| ![Back-End Design](newER.png) | ![ER Diagram](backEnd.png) |
+| ![Back-End Design](images/newER.png) | ![ER Diagram](images/backEnd.png) |
 
 - Initially had only 2 back-end services.
 - Added API-Gateway, Auth-Service and Service-Registry services into this microservice architecture.
