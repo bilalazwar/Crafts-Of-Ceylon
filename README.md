@@ -5,7 +5,7 @@ A web application that was designed to bridge the gap between local Sri Lankan a
 
 ## Functionality
 
-Allows artisans to showcase their products and allow customers to purchanse their handcrafts online.
+Allows artisans to showcase their products and allow customers to purchase their handcrafts online.
 
 ## Technology
 
@@ -47,7 +47,7 @@ These are the initial developed plans before the improvements
 
 - Initially had only 2 back-end services.
 - Added API-Gateway, Auth-Service and Service-Registry services into this microservice architecture.
-- Implemented Spring Security.
+- Implemented Spring Security(JWT).
 - Initially didn't having mappings between entities.
 - Added Swagger Api-Documentation.
 
